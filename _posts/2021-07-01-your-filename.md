@@ -170,9 +170,3 @@ datagrams
 ![]({{site.baseurl}}/_posts/Screenshot%202021-07-01%20234244.png)
 
 ### ANSWER : Bellevue Golf Course
-
-
-
-
-
-
